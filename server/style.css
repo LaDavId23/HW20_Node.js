@@ -1,0 +1,34 @@
+body{
+    font-size: 26px;
+    line-height: 30px;
+    padding: 10px;
+}
+p{
+    margin: 0 0 5px;
+    padding: 0;
+}
+.heading{
+    font-size: 32px;
+    text-decoration: underline;
+    font-family: Arial;
+    font-style: italic;
+    line-height: 40px;
+    font-weight: bold;
+    color: rgb(255, 86, 86);
+}
+.plain{
+    color: #003c8a;
+    font-size: 28px;
+}
+.list{
+    color: #000000;
+    margin: 0;
+}
+.list li{
+    margin: 0 0 5px;
+}
+
+.error{
+    font-weight: bold;
+    color: red;
+}

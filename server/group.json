@@ -1,0 +1,36 @@
+{
+    "director": {
+        "name": "Dmitry",
+        "lastName": "Ivanchenko"
+    },
+    "employees": [
+        {
+            "name": "Mikhail",
+            "lastName": "Shevchenko"
+        },
+        {
+            "name": "Victoria",
+            "lastName": "Yakimenko"
+        },
+        {
+            "name": "Sergey",
+            "lastName": "Yankovsky"
+        },
+        {
+            "name": "Irina",
+            "lastName": "Vishnevskaya"
+        },
+        {
+            "name": "Vladimir",
+            "lastName": "Podkopay"
+        },
+        {
+            "name": "Yanina",
+            "lastName": "Danilevskaya"
+        },
+        {
+            "name": "Victor",
+            "lastName": "Sergienko"
+        }
+    ]
+}
